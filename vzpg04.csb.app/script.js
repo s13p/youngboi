@@ -315,11 +315,11 @@ $("a.dropdown-link").click(function () {
 var typed = new Typed("#typed-text", {
   strings: [
     "",
-    "xmasOS v4.5N0W_toniklove",
-    "webflow.power config file",
+    "TRUMP_PUSSY_GRABBER",
+    "maga.meow config file",
     "time_machine system config",
-    "hidden_trees.cfg christmas game file",
-    "Machine is starting up..."
+    "trumpe.cfg game file",
+    "$TRUMPE is starting up..."
   ],
   typeSpeed: 10,
   showCursor: false,
