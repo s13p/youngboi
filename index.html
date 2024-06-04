@@ -606,6 +606,29 @@ input {
               </a>
 
             </div>
+            <style>
+#pot {
+  bottom: 1%;
+  position: absolute;
+  -webkit-animation: linear infinite;
+  -webkit-animation-name: run;
+  -webkit-animation-duration: 15s;
+}
+@-webkit-keyframes run {
+  0% {
+    right: 0;
+  }
+  50% {
+    right: 50%;
+  }
+  100% {
+    right: 100%;    
+  }
+}
+            </style>
+            <div id="pot">
+              <img src="./trump-dance-moves.gif" style="height: 150px; width: align-self: start;;">
+            </div>
             <div class="popups">
               <div id="popup-drag" popup-is="playlist" style="display:none !important" class="popup is--playlist">
                 <div id="popup-dragelement" class="popup-head is--bg-color-main">
